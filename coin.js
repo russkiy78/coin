@@ -2,6 +2,8 @@
  * Created by russkiy on 02.02.16.
  */
 
+var forge = require('node-forge');
+
 /*
 * 0.01
 * 0.05
